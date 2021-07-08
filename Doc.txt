@@ -1,0 +1,11 @@
+minimo note:
+
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+
+color:
+ash #626262;
+black #000000
+      #b4ad9e
+
+      #f0f0f0
